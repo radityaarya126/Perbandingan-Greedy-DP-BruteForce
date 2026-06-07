@@ -1,0 +1,16 @@
+ID,Tempat,Biaya,Jarak,Durasi,Kepuasan
+T1,Tempat 1,15000,1,1,20
+T2,Tempat 2,25000,2,2,35
+T3,Tempat 3,35000,4,2,50
+T4,Tempat 4,20000,2,1,30
+T5,Tempat 5,45000,5,3,60
+T6,Tempat 6,30000,3,2,45
+T7,Tempat 7,18000,1,1,25
+T8,Tempat 8,50000,6,3,70
+T9,Tempat 9,22000,2,1,32
+T10,Tempat 10,40000,4,2,55
+T11,Tempat 11,28000,3,2,42
+T12,Tempat 12,35000,5,2,48
+T13,Tempat 13,17000,1,1,24
+T14,Tempat 14,55000,7,3,75
+T15,Tempat 15,26000,2,2,38
